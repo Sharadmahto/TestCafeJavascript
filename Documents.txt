@@ -5,5 +5,11 @@ I would like to share my work regarding Automation testing for your consideratio
  and each test has yielded positive results. Additionally, 
  I have performed thorough cross-browser testing using both Chrome and Edge browsers.
 
+Learnings--
+I have learnt about testcafe, earlier i was using Cypress. They are having similar feature.
+
 Encountered Obstacles--
 One of the most formidable hurdles in any endeavor is ensuring timely delivery.
+
+Thanks
+Sharad Kumar
