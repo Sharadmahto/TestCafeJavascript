@@ -1,0 +1,9 @@
+Greetings, Recruitment Team!
+
+I would like to share my work regarding Automation testing for your consideration.
+ I have successfully conducted testing across all four potential scenarios, 
+ and each test has yielded positive results. Additionally, 
+ I have performed thorough cross-browser testing using both Chrome and Edge browsers.
+
+Encountered Obstacles--
+One of the most formidable hurdles in any endeavor is ensuring timely delivery.
